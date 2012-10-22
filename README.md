@@ -1,4 +1,0 @@
-NewsParser
-==========
-
-NewsParser source code

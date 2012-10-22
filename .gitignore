@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build and Release Folders
 bin-debug/
 bin-release/
@@ -7,3 +8,15 @@ bin-release/
 .flexProperties
 .settings/
 .project
+=======
+Icon?
+.DS_Store
+.svn
+code_coverage
+*~
+*.swp
+coverage
+kohana_release
+nbproject
+build
+>>>>>>> 05220eaca92d0a8b47b6aeee7f72609085034aaf
